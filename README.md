@@ -22,3 +22,5 @@ Tried to cover concepts of Object Oriented Developement
 --Exception Handling
 --Getter Property
 --Object creation
+
+![1](https://user-images.githubusercontent.com/50725648/69925822-066cc480-1506-11ea-8162-0d9e94671dba.png)
