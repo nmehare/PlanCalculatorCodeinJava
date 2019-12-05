@@ -32,7 +32,7 @@ Best possible authentication method is using Basic OAuth compared to Cookie base
 
 Best possible authentication method is using Basic Auth compared to Cookie based authentication and OAuth. As OAuth includes 3LO which does not support cURL and while using cookie-based authentication the actual password of the user needs to be added, so Basic Auth method is best which 	uses API token-based authentication. There are different methods for authenticating the REST API.                           
 
-![authentication methods for REST API](https://user-images.githubusercontent.com/50725648/70201431-c22e2e00-176a-11ea-8d4b-d5164b7ec229.png)
+![authentication methods for REST API](https://user-images.githubusercontent.com/50725648/70201681-762fb900-176b-11ea-86e9-0c51f467db4f.png)
 
 ### Get all projects – User can get all the projects using REST API which will return all projects visible to the user. 
 
@@ -83,7 +83,7 @@ https://api.github.com/ user/repos /json'
 
 Below table can be referred
 
-![creating projects for REST API](https://user-images.githubusercontent.com/50725648/70199544-11259480-1766-11ea-8bb9-04be2eeeae9b.png)
+![creating projects for REST API](https://user-images.githubusercontent.com/50725648/70201707-86479880-176b-11ea-9bf9-75371cf695a6.png)
 
 
 ## Open issues/risks
